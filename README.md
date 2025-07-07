@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Express.js PostgreSQL API
 
 A simple Express.js API that connects to a PostgreSQL database and performs basic CRUD operations on a users table.
@@ -262,3 +263,7 @@ To add new features or modify existing ones:
 ## License
 
 This project is licensed under the MIT License.
+=======
+# express-postgres-api
+A simple Express.js API that connects to a PostgreSQL database and performs basic CRUD operations on a users table.
+>>>>>>> 5020b2cdfeb3db6506df6d7f2710e37abb52dfc3
